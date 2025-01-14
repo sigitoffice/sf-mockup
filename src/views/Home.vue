@@ -155,7 +155,7 @@ const clients = [
                         <template #title>
                             <p class="text-xl font-semibold uppercase tracking-[6px]">Business Line</p>
                             <h4 class="text-2xl lg:text-4xl mb-3 text-primary">Trading</h4>
-                            <p class="text-sm">We started our business in Indonesia as a distributor of building
+                            <p class="text-m">We started our business in Indonesia as a distributor of building
                                 materials. </p>
                             <hr class="my-5">
                         </template>
