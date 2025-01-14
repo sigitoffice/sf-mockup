@@ -123,7 +123,7 @@ const clients = [
                         <h4 class="text-2xl lg:text-4xl mb-3 text-primary">Since our founding more than 330 years ago
                         </h4>
                         <div class="text">
-                            <p class="text-xl leading-relaxed"> We have accumulated technical expertise and know how
+                            <p class="text-l leading-relaxed"> We have accumulated technical expertise and know how
                                 related to wood, cultivated relationships with our customers, developed an extensive
                                 network
                                 of
